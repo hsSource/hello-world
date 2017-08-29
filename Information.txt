@@ -3,6 +3,7 @@ I will add some information in this document
 Adding some Information about me in this docuement
 My name is Imtiaz khan kapoor
 Student of Computer Science
+Hobbies are making faltu movies and foll people
 
 New commands of git like:-
 git commit --amend
