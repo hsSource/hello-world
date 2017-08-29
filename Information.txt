@@ -6,4 +6,5 @@ Student of Computer Science
 
 New commands of git like:-
 git commit --amend
+git diff
 
