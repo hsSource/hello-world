@@ -1,6 +1,8 @@
 This is a testing document
 I will add some information in this document
 Adding some Information about me in this docuement
+My name is Imtiaz Ali
+Student of Computer Science
 
 New commands of git like:-
 git commit --amend
